@@ -1,4 +1,4 @@
-# Hair Site Captone
+# Hair Show Captone
 A website for people looking for a new hair stylist or barber. Inspiration comes from my wife, who is a hairstylist.
 
 ## MVP
